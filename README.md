@@ -1,3 +1,4 @@
+# 0
 # GitHub Action工作流程状态徽章的使用
 
 ![example workflow](https://github.com/czzonet/github-action-badge/actions/workflows/blank.yml/badge.svg)
